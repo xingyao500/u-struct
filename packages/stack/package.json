@@ -1,0 +1,17 @@
+{
+  "name": "u-struct.stack",
+  "version": "0.1.0",
+  "description": "data structrure - stack",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "xingyao",
+    "email": "cpyjss@gmail.com",
+    "url": "https://github.com/xingyao500"
+  },
+  "scripts": {
+    "build": "rm -rf ./lib && tsc"
+  }
+}

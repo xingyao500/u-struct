@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "outDir": "./lib",
+    "module": "umd",
+    "strict": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "lib": ["esnext", "dom"],
+    "moduleResolution": "node"
+  },
+  "include": ["packages/**/*"]
+}
